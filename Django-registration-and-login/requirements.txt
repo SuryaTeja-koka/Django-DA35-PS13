@@ -1,0 +1,7 @@
+# python -m pip install python-dotenv
+# You can use 
+Django==3.2.6
+Pillow==8.3.1
+python-dotenv==0.19.0
+social-auth-app-django==5.0.0
+mysqlclient == 2.1.0
