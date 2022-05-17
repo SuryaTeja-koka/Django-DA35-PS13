@@ -3,7 +3,10 @@
 **Commands to run the application:**
 
 <code>
-$ git clone https://github.com/SuryaTeja-koka/Django-DA35-PS13.git<br>
+$ git clone https://github.com/SuryaTeja-koka/Django-DA35-PS13.git
+</code>
+<br>
+<code>
 $ cd Django-registration-and-login
 </code>
 <br>
@@ -12,7 +15,10 @@ $ pip install -r requirements.txt
 </code>
 <br>
 <code>
-$ python manage.py runserver<br>
+$ python manage.py runserver
+</code>
+<br>
+<code>
 $ python3 manage.py runserver #Linux
 </code>
 <br>
