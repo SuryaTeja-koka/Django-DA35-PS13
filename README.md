@@ -2,7 +2,8 @@
 
 **Commands to run the application:**
 
-<code>$ git clone https://github.com/SuryaTeja-koka/Django-DA35-PS13.git <br>
+<code>
+$ git clone https://github.com/SuryaTeja-koka/Django-DA35-PS13.git<br>
 $ cd Django-registration-and-login
 </code>
 <br>
